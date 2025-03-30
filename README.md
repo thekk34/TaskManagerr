@@ -1,4 +1,4 @@
-Task Management Application
+**Task Management Application**
 
 Overview
 
@@ -27,6 +27,9 @@ Technologies Used
 React - Frontend library
 
 Material-UI - UI components
+
+**Demo Link**: 
+https://thekk34.github.io/TaskManagerr/
 
 React DnD - Drag-and-drop functionality
 
